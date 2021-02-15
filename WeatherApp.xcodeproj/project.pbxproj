@@ -92,8 +92,8 @@
 		FFDCD54C25D59F270091134D /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
-				FFDCD59225D625110091134D /* UI */,
 				FFDCD56F25D5AA940091134D /* Networking */,
+				FFDCD59225D625110091134D /* UI */,
 				FFDCD56C25D5AA6A0091134D /* Utility */,
 			);
 			path = WeatherApp;
